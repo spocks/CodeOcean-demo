@@ -1,2 +1,3 @@
 # CodeOcean-demo
-Demo of CodeOcean
+This contains demo of CodeOcean.
+
